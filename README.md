@@ -23,3 +23,7 @@
 **Thebittles/Thebittles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Currently Learning Full Stack Development 
+
+<p>{office_quote}</p>
+
+<p>{office_character}</p>
