@@ -1,5 +1,5 @@
 
-[![Britt's GitHub Banner](./assets/GitHubHeader.png)](https://www.linkedin.com/in/brittany-sifford-3637041b6/)
+<!-- [![Britt's GitHub Banner](./assets/GitHubHeader.png)](https://www.linkedin.com/in/brittany-sifford-3637041b6/) -->
 
 <!-- Badges -->
 
