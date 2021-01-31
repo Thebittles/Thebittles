@@ -1,9 +1,9 @@
-### Hi there 👋
+
 [![Britt's GitHub Banner](./assets/GitHubHeader.png)](https://www.linkedin.com/in/brittany-sifford-3637041b6/)
 
 <!-- Badges -->
 
-[![Visits Badge](https://badges.pufler.dev/visits/Thebittles/Thebittles)](https:Thebittles.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/Thebittles/Thebittles)](https://github.com/Thebittles)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/brittany-sifford-3637041b6/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/Thebittles)
@@ -22,14 +22,4 @@
 <!--
 **Thebittles/Thebittles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently Learning Full Stack Development 
