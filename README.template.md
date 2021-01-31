@@ -24,6 +24,6 @@
 
 <p>Currently Learning Full Stack Development</p> 
 
-<p>{office_quote}</p>
+<p>{zen_quote}</p>
 
-<p>{office_character}</p>
+<p>{zen_character}</p>

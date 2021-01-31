@@ -1,4 +1,5 @@
 
+
 require("isomorphic-unfetch");
 const { promises: fs } = require("fs");
 const path = require("path");
@@ -9,16 +10,16 @@ async function main() {
         await fs.readFile(path.join(process.cwd(), "./README.template.md"))
     ).toString("utf-8");
 
-    const office_quote = await (
-        await fetch("https://officeapi.dev/api/quotes/random")
+    const zen_quote = await (
+        await fetch("https://zenquotes.io/api/random")
     ).json();
 
-    console.log(office_quote);
+    console.log(zen_quote);
 
 
     const readme = readmeTemplate
-        .replace("{office_quote}", office_quote.data.content)
-        .replace("{office_character}", `- ${office_quote.data.character.firstname} ${office_quote.data.character.lastname}`)
+        .replace("{zen_quote}", zen_quote[0].q)
+        .replace("{zen_character}", `${zen_quote[0].a}`)
 
     await fs.writeFile("README.md", readme);
 }
