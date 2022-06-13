@@ -8,11 +8,7 @@
   <a href="https://www.linkedin.com/in/brittany-sifford-3637041b6/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://codepen.io/Thebittles">
-    <img src="https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black" alt="Codepen Badge"/>
-  </a>
 </div>
-
 <img src="https://komarev.com/ghpvc/?username=Thebittlese&style=flat-square&color=blue" alt=""/>
 
 
