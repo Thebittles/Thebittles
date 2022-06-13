@@ -15,7 +15,15 @@
 
 </div>
 
+### :woman_technologist: About Me :
+<div id="about">
+I am a Full Stack Developer & Mentor from Austin, Texas. 
 
+- :brain: Mentor for the ACC Software Developer Bootcamp
+- :camera: Photographer
+- :coffee: Caffeine lover
+- :handshake: Connect with me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/brittany-sifford-3637041b6/)
+</div>
 
 ## Projects
 
@@ -23,7 +31,7 @@
 
 
 
-## Stats
+## Stats 📈 
 <div align="center">
  <!-- Github Stats -->
 
