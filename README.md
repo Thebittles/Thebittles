@@ -4,20 +4,20 @@
 [![Britt's GitHub Banner](./assets/banner.png)](https://www.linkedin.com/in/brittany-sifford-3637041b6/)
 
 <!-- Socials -->
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/brittany-sifford-3637041b6/)
-
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/Thebittles)
-
-[![Visits Badge](https://badges.pufler.dev/visits/Thebittles/Thebittles)](https://github.com/Thebittles)
-
+<div id="badges">
+  <a href="https://www.linkedin.com/in/brittany-sifford-3637041b6/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://codepen.io/Thebittles">
+    <img src="https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black" alt="Codepen Badge"/>
+  </a>
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=Thebittlese&style=flat-square&color=blue" alt=""/>
 
 
 
-
-
+</div>
 
 
 
@@ -28,7 +28,7 @@
 
 
 ## Stats
-<div style="display: flex; flex-direction: row;">
+<div align="center">
  <!-- Github Stats -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thebittles&theme=github_dark&langs_count=8)](https://github.com/Thebittles)
