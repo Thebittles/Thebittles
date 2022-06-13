@@ -24,8 +24,9 @@ I am a Full Stack Developer from Austin, Texas.
 - :camera: Photographer
 - :coffee: Caffeine lover
 
+</div>
 
-## Projects
+## Projects :file_folder:
 
 
 
