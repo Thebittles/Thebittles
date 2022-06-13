@@ -10,7 +10,11 @@
 
 
 
+## Stats
+<div style="display: flex; flex-direction: row;">
  <!-- Github Stats -->
+
+
 
 <a href="https://github.com/Thebittles">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thebittles&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -19,11 +23,5 @@
 <a href="https://github.com/Thebittles">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Thebittles&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Braydon's GitHub Stats" />
 </a>
-<!--
-**Thebittles/Thebittles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<p>Currently Learning Full Stack Development</p> 
-
-<p>{zen_quote}</p>
-
-<p>{zen_character}</p>
+</div>
