@@ -21,8 +21,7 @@
 <div style="display: flex; flex-direction: row;">
  <!-- Github Stats -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thebittles&langs_count=8?theme=github_dark)](https://github.com/Thebittles/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thebittles&theme=github_dark&langs_count=8)](https://github.com/Thebittles/github-readme-stats)
 
 </div>
 
