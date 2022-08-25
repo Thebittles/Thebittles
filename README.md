@@ -17,7 +17,7 @@
 
 ### :woman_technologist: About Me :
 <div id="about">
-I am a Full Stack Developer from Austin, Texas. 
+I am a Full Stack Software Developer from Austin, Texas. 
   
   
 - :brain: Mentor for the ACC Software Developer Bootcamp
