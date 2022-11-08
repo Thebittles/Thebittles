@@ -27,8 +27,9 @@ I am a Full Stack Software Developer from Austin, Texas.
 </div>
 
 ## Projects :file_folder:
-
-
+## CIMA
+- Chronic Illness management app 
+[CIMA](https://accsoftware-cima.herokuapp.com/)
 
 
 
