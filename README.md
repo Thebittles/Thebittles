@@ -20,7 +20,7 @@
 I am a Full Stack Software Developer from Austin, Texas. 
   
   
-- :brain: Mentor for the ACC Software Developer Bootcamp
+- :brain: Instructor for the ACC Software Developer Bootcamp
 - :camera: Photographer
 - :coffee: Caffeine lover
 
